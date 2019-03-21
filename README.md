@@ -1,6 +1,7 @@
 # mal
 MAL son las siglas en euskera de TFM
 
+Necesario instalar el paquete parsimonious
 
 Ejemplos de uso de la clase Formula incluida en el archivo Parser.py
 
